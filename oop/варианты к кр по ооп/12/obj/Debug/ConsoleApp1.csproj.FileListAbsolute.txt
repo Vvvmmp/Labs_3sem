@@ -1,0 +1,14 @@
+C:\Users\cat22\OneDrive\Desktop\test\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\cat22\OneDrive\Desktop\test\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\cat22\OneDrive\Desktop\test\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\cat22\OneDrive\Desktop\test\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\cat22\OneDrive\Desktop\test\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\cat22\OneDrive\Desktop\test\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\cat22\OneDrive\Desktop\test\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\cat22\OneDrive\Desktop\test\12\bin\Debug\ConsoleApp1.exe.config
+C:\Users\cat22\OneDrive\Desktop\test\12\bin\Debug\ConsoleApp1.exe
+C:\Users\cat22\OneDrive\Desktop\test\12\bin\Debug\ConsoleApp1.pdb
+C:\Users\cat22\OneDrive\Desktop\test\12\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\cat22\OneDrive\Desktop\test\12\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\cat22\OneDrive\Desktop\test\12\obj\Debug\ConsoleApp1.exe
+C:\Users\cat22\OneDrive\Desktop\test\12\obj\Debug\ConsoleApp1.pdb

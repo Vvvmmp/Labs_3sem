@@ -1,0 +1,10 @@
+C:\labi\3sem\oop\lab13\lab13\bin\Debug\lab13.exe.config
+C:\labi\3sem\oop\lab13\lab13\bin\Debug\lab13.exe
+C:\labi\3sem\oop\lab13\lab13\bin\Debug\lab13.pdb
+C:\labi\3sem\oop\lab13\lab13\obj\Debug\lab13.csproj.AssemblyReference.cache
+C:\labi\3sem\oop\lab13\lab13\obj\Debug\lab13.csproj.CoreCompileInputs.cache
+C:\labi\3sem\oop\lab13\lab13\obj\Debug\lab13.exe
+C:\labi\3sem\oop\lab13\lab13\obj\Debug\lab13.pdb
+C:\labi\3sem\oop\lab13\lab13\bin\Debug\Newtonsoft.Json.dll
+C:\labi\3sem\oop\lab13\lab13\bin\Debug\Newtonsoft.Json.xml
+C:\labi\3sem\oop\lab13\lab13\obj\Debug\lab13.csproj.CopyComplete

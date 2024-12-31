@@ -1,0 +1,129 @@
+$green-color: rgba(16, 50, 95, 0.824);
+
+body {
+    margin: 3%;
+    font-size: 150%;
+    font-family: 'Press Start 2P', sans-serif;
+
+    h1 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.831);
+        margin: 3%;
+    }
+    
+    .selectTask {
+        display: flex; 
+        align-items: center;
+        margin: auto; 
+        width: 80%;
+        gap: 10%;
+        height: fit-content;
+
+        input {
+            width: 50%;
+            height: 6vh;
+            font-family: 'Press Start 2P', sans-serif; 
+        }
+        
+        button {
+            font-size: 120%;
+            height: 8vh;
+            color: whitesmoke;
+            width: 28%;
+            background-color: $green-color;
+            border-radius: 5px;
+            cursor: pointer; 
+            transition: background-color 0.3s ease;
+        }
+        
+
+        button:hover {
+           background-color: rgb(19, 43, 83);
+        }
+        
+    }
+
+    .showTask {
+        width: 80%;
+        display: flex;                   
+        margin: auto; 
+        margin-top: 3%;
+        justify-content: space-around;
+        gap: 5%;
+        height: fit-content;
+
+        button {
+            height: 8vh;
+            font-size: 100%;
+            color: whitesmoke;
+            width: 25%;
+            border-radius: 8px;
+            cursor: pointer;
+            background-color: $green-color;
+            transition: background-color 0.3s ease;
+        }
+
+        button:hover {
+           background-color: rgb(19, 43, 83);
+    }
+}
+
+    #taskContainer{
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+        margin: 2%;
+        
+        .task {
+            margin: 1%;
+            display: flex;
+            align-items: center; 
+            padding: 10px;
+            border-radius: 8px;
+            background-color: rgba(86, 86, 86, 0.562);
+        
+        
+        input[type="checkbox"] {
+            width: 20px; 
+            height: 20px; 
+            cursor: pointer; 
+            margin-right: 10px; 
+            accent-color: #2e8b57; 
+        }
+        
+        p {
+            margin: 5px;
+            flex-grow: 1; 
+            font-size: 1rem;
+        }
+        
+        button {
+            color: white;
+            font-size: 90%;
+            border-radius: 5px;
+            padding: 5px 10px;
+            margin-left: 5px;       
+            border: none;              
+            cursor: pointer;                
+        }
+        
+        button#Set {
+            background-color: rgb(49, 153, 68);
+            transition: background-color 0.3s ease;
+        }
+        
+        button#Set:hover {
+            background-color: rgb(39, 123, 58); 
+        }
+        
+        button#Remove {
+            background-color: rgb(153, 49, 49);
+            transition: background-color 0.3s ease;
+        }
+        
+        button#Remove:hover {
+            background-color: rgb(123, 39, 39); 
+        }
+    }
+    }
+}

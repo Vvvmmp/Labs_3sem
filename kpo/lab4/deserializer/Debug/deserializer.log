@@ -1,0 +1,7 @@
+﻿  deserializer.cpp
+C:\labi\3sem\kpo\lab4\deserializer\deserializer.cpp(93,17): warning C4129: m: неизвестная escape-последовательность
+C:\labi\3sem\kpo\lab4\deserializer\deserializer.cpp(94,17): warning C4129: c: неизвестная escape-последовательность
+C:\labi\3sem\kpo\lab4\deserializer\deserializer.cpp(97,21): warning C4129: m: неизвестная escape-последовательность
+C:\labi\3sem\kpo\lab4\deserializer\deserializer.cpp(98,21): warning C4129: i: неизвестная escape-последовательность
+C:\labi\3sem\kpo\lab4\deserializer\deserializer.cpp(102,13): warning C4129: m: неизвестная escape-последовательность
+  deserializer.vcxproj -> C:\labi\3sem\kpo\lab4\deserializer\Debug\deserializer.exe

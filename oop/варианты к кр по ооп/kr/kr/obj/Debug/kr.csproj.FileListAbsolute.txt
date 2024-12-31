@@ -1,0 +1,7 @@
+C:\Users\cat22\OneDrive\Desktop\test\kr\kr\bin\Debug\kr.exe.config
+C:\Users\cat22\OneDrive\Desktop\test\kr\kr\bin\Debug\kr.exe
+C:\Users\cat22\OneDrive\Desktop\test\kr\kr\bin\Debug\kr.pdb
+C:\Users\cat22\OneDrive\Desktop\test\kr\kr\obj\Debug\kr.csproj.AssemblyReference.cache
+C:\Users\cat22\OneDrive\Desktop\test\kr\kr\obj\Debug\kr.csproj.CoreCompileInputs.cache
+C:\Users\cat22\OneDrive\Desktop\test\kr\kr\obj\Debug\kr.exe
+C:\Users\cat22\OneDrive\Desktop\test\kr\kr\obj\Debug\kr.pdb

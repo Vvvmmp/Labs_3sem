@@ -1,0 +1,1 @@
+1	tfi(ti,ti)2	{3	dti;4	i=iv(ivi);5	ri;6	};8	tfi(ti,ti)9	{10	dt;11	dtfi(ti,ti,12	ti);13	i=i(i,l,l)vi;14	ri;15	};17	m18	{19	dti;20	dti;21	dti;22	dti;23	dti;24	dti;25	dtfi(ti);26	i=l;27	i=l;28	i=l;29	i=l;30	i=i(i,i);31	i=i(i,i);32	p;33	pi;34	pi;35	pi(i);36	rl;37	};

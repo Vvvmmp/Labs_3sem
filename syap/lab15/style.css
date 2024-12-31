@@ -1,0 +1,79 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+}
+
+form {
+  max-width: 600px;
+  margin: 0 auto;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+form .labels .cursee {
+  margin-right: 25%;
+}
+form .labels label {
+  margin-right: 5%;
+  flex: 0;
+}
+form div {
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+}
+form div label {
+  flex: 1;
+  font-weight: bold;
+  margin-right: 10px;
+  color: #555;
+}
+form div input[type=text],
+form div input[type=email],
+form div input[type=number],
+form div select,
+form div textarea {
+  flex: 2;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  transition: border-color 0.3s;
+}
+form div input[type=text]:focus,
+form div input[type=email]:focus,
+form div input[type=number]:focus,
+form div select:focus,
+form div textarea:focus {
+  border-color: #007BFF;
+  outline: none;
+}
+form div input[type=checkbox] {
+  flex: none;
+  margin-left: 10px;
+}
+form div input[type=radio] {
+  margin-left: 10px;
+}
+form button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+form button:hover {
+  background-color: #0056b3;
+}

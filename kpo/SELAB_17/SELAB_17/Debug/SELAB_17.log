@@ -1,0 +1,7 @@
+﻿  IT.cpp
+  LexA.cpp
+C:\labi\3sem\kpo\SELAB_17\SELAB_17\LexA.cpp(242,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\labi\3sem\kpo\SELAB_17\SELAB_17\LexA.cpp(275,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\labi\3sem\kpo\SELAB_17\SELAB_17\LexA.cpp(436,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  SELAB_17.vcxproj -> C:\labi\3sem\kpo\SELAB_17\Debug\SELAB_17.exe

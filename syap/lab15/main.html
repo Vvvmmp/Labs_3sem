@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="text/javascript" src="lab15.js" defer></script>
+    <link href="style.css" rel="stylesheet">
+    <title>lab15</title>
+</head>
+<body>
+    <h2>Заполните форму:</h2>
+    <form onsubmit="validateForm(event)">
+        <div>
+            <label for="surname">Фамилия</label>
+            <input type="text" id="surname" name="surname" required onchange="validateInput(event)">
+        </div>
+
+        <div>
+            <label for="name">Имя</label>
+            <input type="text" id="name" name="name" required onchange="validateInput(event)">
+        </div>
+        
+        <div>
+            <label for="email">E-mail</label>
+            <input type="email" id="email" name="email" required onchange="validateEmail(event)">
+        </div>
+
+        <div>
+            <label for="number">Телефон(0хх)ххх-хх-хх</label>
+            <input type="text" id="number" name="number" required onchange="validatePhone(event)">
+        </div>
+
+        <div>
+            <label for="city">Город</label>
+            <select name="city">
+                <option>Брест</option>
+                <option>Витебск</option>
+                <option>Гомель</option>
+                <option>Гродно</option>
+                <option>Бобруйск</option>
+                <option>Могилёв</option>
+                <option>Минск</option>
+            </select>
+        </div>
+
+        <div>
+            <label for="bstu">Я учусь в БГТУ</label>
+            <input type="checkbox" id="bstu" name="bstu">
+        </div>
+
+        <div class="labels">
+            <label class="cursee">На каком курсе Вы учитесь?</label><br>
+            <input type="radio" name="course" value="1" id="course1">
+            <label for="course1">1</label>
+            
+            <input type="radio" name="course" value="2" id="course2">
+            <label for="course2">2</label>
+            
+            <input type="radio" name="course" value="3" id="course3">
+            <label for="course3">3</label>
+            
+            <input type="radio" name="course" value="4" id="course4">
+            <label for="course4">4</label>
+        </div>
+
+        <div>
+            <label for="message">Расскажите о себе</label>
+            <textarea id="message" name="message" rows="6" required onblur="validateMessage(event)"></textarea>
+        </div>
+            
+        <button type="submit" >Проверить</button>
+    </form>
+</body>
+</html>

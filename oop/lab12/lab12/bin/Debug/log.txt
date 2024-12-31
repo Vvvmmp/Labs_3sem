@@ -1,0 +1,102 @@
+2024-11-29, 20-09-36 - Перемещение директории: Перемещена директория: C:\labi\3sem\oop\lab12\XXXInspect\XXXFiles
+2024-11-29, 20-09-36 - Создание архива: Создан архив: C:\labi\3sem\oop\lab12\XXXInspect\XXXFiles.zip
+2024-11-29, 20-09-36 - Разархивирование: Разархивировано в: C:\labi\3sem\oop\lab12\ExtractedFiles
+2024-11-29, 20-09-36 - Создание файла: Создан файл: C:\labi\3sem\oop\lab12\XXXInspect\xxxdirinfo.txt
+2024-11-29, 21-51-32 - Перемещение директории: Перемещена директория: C:\labi\3sem\oop\lab12\XXXInspect\XXXFiles
+2024-11-29, 21-51-32 - Создание архива: Создан архив: C:\labi\3sem\oop\lab12\XXXInspect\XXXFiles.zip
+2024-11-29, 21-51-32 - Разархивирование: Разархивировано в: C:\labi\3sem\oop\lab12\ExtractedFiles
+2024-11-29, 21-51-32 - Создание файла: Создан файл: C:\labi\3sem\oop\lab12\XXXInspect\xxxdirinfo.txt
+2024-11-29, 21-58-46 - Перемещение директории: Перемещена директория: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles
+2024-11-29, 21-58-46 - Создание архива: Создан архив: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles.zip
+2024-11-29, 21-58-46 - Разархивирование: Разархивировано в: C:\labi\3sem\oop\lab12\ExtractedFiles
+2024-11-29, 21-58-46 - Создание файла: Создан файл: C:\labi\3sem\oop\lab12\LVKInspect\lvkdirinfo.txt
+2024-11-29, 22-00-28 - Перемещение директории: Перемещена директория: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles
+2024-11-29, 22-00-50 - Перемещение директории: Перемещена директория: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles
+2024-11-29, 22-00-50 - Создание архива: Создан архив: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles.zip
+2024-11-29, 22-00-50 - Разархивирование: Разархивировано в: C:\labi\3sem\oop\lab12\ExtractedFiles
+2024-11-29, 22-00-50 - Создание файла: Создан файл: C:\labi\3sem\oop\lab12\LVKInspect\lvkdirinfo.txt
+2024-11-29, 22-02-42 - Перемещение директории: Перемещена директория: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles
+2024-11-29, 22-06-21 - Копирование файла: Скопирован файл: C:\labi\3sem\oop\test.txt в C:\labi\3sem\oop\lab12\LVKFiles\test.txt
+2024-11-29, 22-06-21 - Перемещение директории: Перемещена директория: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles
+2024-11-29, 22-06-21 - Создание архива: Создан архив: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles.zip
+2024-11-29, 22-06-21 - Разархивирование: Разархивировано в: C:\labi\3sem\oop\lab12\ExtractedFiles
+2024-11-29, 22-06-21 - Создание файла: Создан файл: C:\labi\3sem\oop\lab12\LVKInspect\lvkdirinfo.txt
+2024-11-29, 23-31-31 - Копирование файла: Скопирован файл: C:\labi\3sem\oop\test.txt в C:\labi\3sem\oop\lab12\LVKFiles\test.txt
+2024-11-29, 23-31-31 - Перемещение директории: Перемещена директория: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles
+2024-11-29, 23-32-02 - Копирование файла: Скопирован файл: C:\labi\3sem\oop\test.txt в C:\labi\3sem\oop\lab12\LVKFiles\test.txt
+2024-11-29, 23-32-02 - Перемещение директории: Перемещена директория: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles
+2024-11-29, 23-32-02 - Создание архива: Создан архив: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles.zip
+2024-11-29, 23-32-20 - Копирование файла: Скопирован файл: C:\labi\3sem\oop\test.txt в C:\labi\3sem\oop\lab12\LVKFiles\test.txt
+2024-11-29, 23-32-20 - Перемещение директории: Перемещена директория: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles
+2024-11-29, 23-32-20 - Создание архива: Создан архив: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles.zip
+2024-11-29, 23-32-20 - Разархивирование: Разархивировано в: C:\labi\3sem\oop\lab12\ExtractedFiles
+2024-11-29, 23-32-20 - Создание файла: Создан файл: C:\labi\3sem\oop\lab12\LVKInspect\lvkdirinfo.txt
+2024-11-29, 23-33-59 - Копирование файла: Скопирован файл: C:\labi\3sem\oop\test.txt в C:\labi\3sem\oop\lab12\LVKFiles\test.txt
+2024-11-29, 23-33-59 - Перемещение директории: Перемещена директория: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles
+2024-11-29, 23-35-30 - Копирование файла: Скопирован файл: C:\labi\3sem\oop\test.txt в C:\labi\3sem\oop\lab12\LVKFiles\test.txt
+2024-11-29, 23-35-30 - Перемещение директории: Перемещена директория: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles
+2024-11-29, 23-35-30 - Создание архива: Создан архив: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles.zip
+2024-11-29, 23-35-30 - Разархивирование: Разархивировано в: C:\labi\3sem\oop\lab12\ExtractedFiles
+2024-11-29, 23-35-30 - Создание файла: Создан файл: C:\labi\3sem\oop\lab12\LVKInspect\lvkdirinfo.txt
+2024-11-29, 23-38-05 - Копирование файла: Скопирован файл: C:\labi\3sem\oop\test.txt в C:\labi\3sem\oop\lab12\LVKFiles\test.txt
+2024-11-29, 23-38-05 - Перемещение директории: Перемещена директория: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles
+2024-11-29, 23-38-05 - Создание архива: Создан архив: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles.zip
+2024-11-29, 23-38-05 - Разархивирование: Разархивировано в: C:\labi\3sem\oop\lab12\ExtractedFiles
+2024-11-29, 23-38-05 - Создание файла: Создан файл: C:\labi\3sem\oop\lab12\LVKInspect\lvkdirinfo.txt
+2024-11-29, 23-39-25 - Копирование файла: Скопирован файл: C:\labi\3sem\oop\test.txt в C:\labi\3sem\oop\lab12\LVKFiles\test.txt
+2024-11-29, 23-39-25 - Перемещение директории: Перемещена директория: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles
+2024-11-29, 23-39-25 - Создание архива: Создан архив: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles.zip
+2024-11-29, 23-39-25 - Разархивирование: Разархивировано в: C:\labi\3sem\oop\lab12\ExtractedFiles
+2024-11-29, 23-39-25 - Создание файла: Создан файл: C:\labi\3sem\oop\lab12\LVKInspect\lvkdirinfo.txt
+2024-11-29, 23-40-15 - Копирование файла: Скопирован файл: C:\labi\3sem\oop\test.txt в C:\labi\3sem\oop\lab12\LVKFiles\test.txt
+2024-11-29, 23-40-15 - Перемещение директории: Перемещена директория: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles
+2024-11-29, 23-40-15 - Создание архива: Создан архив: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles.zip
+2024-11-29, 23-40-15 - Разархивирование: Разархивировано в: C:\labi\3sem\oop\lab12\ExtractedFiles
+2024-11-29, 23-40-15 - Создание файла: Создан файл: C:\labi\3sem\oop\lab12\LVKInspect\lvkdirinfo.txt
+2024-11-29, 23-40-55 - Копирование файла: Скопирован файл: C:\labi\3sem\oop\test.txt в C:\labi\3sem\oop\lab12\LVKFiles\test.txt
+2024-11-29, 23-40-55 - Перемещение директории: Перемещена директория: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles
+2024-11-29, 23-40-55 - Создание архива: Создан архив: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles.zip
+2024-11-29, 23-40-55 - Разархивирование: Разархивировано в: C:\labi\3sem\oop\lab12\ExtractedFiles
+2024-11-29, 23-40-55 - Создание файла: Создан файл: C:\labi\3sem\oop\lab12\LVKInspect\lvkdirinfo.txt
+2024-11-29, 23-41-21 - Копирование файла: Скопирован файл: C:\labi\3sem\oop\test.txt в C:\labi\3sem\oop\lab12\LVKFiles\test.txt
+2024-11-29, 23-41-21 - Перемещение директории: Перемещена директория: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles
+2024-11-29, 23-41-21 - Создание архива: Создан архив: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles.zip
+2024-11-29, 23-41-21 - Разархивирование: Разархивировано в: C:\labi\3sem\oop\lab12\ExtractedFiles
+2024-11-29, 23-41-21 - Создание файла: Создан файл: C:\labi\3sem\oop\lab12\LVKInspect\lvkdirinfo.txt
+2024-11-29, 23-43-55 - Копирование файла: Скопирован файл: C:\labi\3sem\oop\test.txt в C:\labi\3sem\oop\lab12\LVKFiles\test.txt
+2024-11-29, 23-43-55 - Перемещение директории: Перемещена директория: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles
+2024-11-29, 23-44-10 - Копирование файла: Скопирован файл: C:\labi\3sem\oop\test.txt в C:\labi\3sem\oop\lab12\LVKFiles\test.txt
+2024-11-29, 23-44-10 - Перемещение директории: Перемещена директория: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles
+2024-11-29, 23-44-10 - Создание архива: Создан архив: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles.zip
+2024-11-29, 23-44-11 - Разархивирование: Разархивировано в: C:\labi\3sem\oop\lab12\ExtractedFiles
+2024-11-29, 23-44-11 - Создание файла: Создан файл: C:\labi\3sem\oop\lab12\LVKInspect\lvkdirinfo.txt
+2024-11-29, 23-49-23 - Копирование файла: Скопирован файл: C:\labi\3sem\oop\test.txt в C:\labi\3sem\oop\lab12\LVKFiles\test.txt
+2024-11-29, 23-49-23 - Перемещение директории: Перемещена директория: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles
+2024-11-29, 23-49-23 - Создание архива: Создан архив: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles.zip
+2024-11-29, 23-49-23 - Разархивирование: Разархивировано в: C:\labi\3sem\oop\lab12\ExtractedFiles
+2024-11-29, 23-49-23 - Создание файла: Создан файл: C:\labi\3sem\oop\lab12\LVKInspect\lvkdirinfo.txt
+2024-11-29, 23-50-50 - Копирование файла: Скопирован файл: C:\labi\3sem\oop\test.txt в C:\labi\3sem\oop\lab12\LVKFiles\test.txt
+2024-11-29, 23-50-50 - Перемещение директории: Перемещена директория: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles
+2024-11-29, 23-50-50 - Создание архива: Создан архив: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles.zip
+2024-11-29, 23-50-50 - Разархивирование: Разархивировано в: C:\labi\3sem\oop\lab12\ExtractedFiles
+2024-11-29, 23-50-50 - Создание файла: Создан файл: C:\labi\3sem\oop\lab12\LVKInspect\lvkdirinfo.txt
+2024-11-29, 23-59-40 - Копирование файла: Скопирован файл: C:\labi\3sem\oop\test.txt в C:\labi\3sem\oop\lab12\LVKFiles\test.txt
+2024-11-29, 23-59-40 - Перемещение директории: Перемещена директория: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles
+2024-11-29, 23-59-40 - Создание архива: Создан архив: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles.zip
+2024-11-29, 23-59-40 - Разархивирование: Разархивировано в: C:\labi\3sem\oop\lab12\ExtractedFiles
+2024-11-29, 23-59-40 - Создание файла: Создан файл: C:\labi\3sem\oop\lab12\LVKInspect\lvkdirinfo.txt
+2024-11-30, 00-08-44 - Копирование файла: Скопирован файл: C:\labi\3sem\oop\test.txt в C:\labi\3sem\oop\lab12\LVKFiles\test.txt
+2024-11-30, 00-08-44 - Перемещение директории: Перемещена директория: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles
+2024-11-30, 00-08-44 - Создание архива: Создан архив: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles.zip
+2024-11-30, 00-08-44 - Разархивирование: Разархивировано в: C:\labi\3sem\oop\lab12\ExtractedFiles
+2024-11-30, 00-08-44 - Создание файла: Создан файл: C:\labi\3sem\oop\lab12\LVKInspect\lvkdirinfo.txt
+2024-11-30, 00-11-37 - Копирование файла: Скопирован файл: C:\labi\3sem\oop\test.txt в C:\labi\3sem\oop\lab12\LVKFiles\test.txt
+2024-11-30, 00-11-37 - Перемещение директории: Перемещена директория: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles
+2024-11-30, 00-11-37 - Создание архива: Создан архив: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles.zip
+2024-11-30, 00-11-37 - Разархивирование: Разархивировано в: C:\labi\3sem\oop\lab12\ExtractedFiles
+2024-11-30, 00-11-37 - Создание файла: Создан файл: C:\labi\3sem\oop\lab12\LVKInspect\lvkdirinfo.txt
+2024-11-30, 12-10-28 - Копирование файла: Скопирован файл: C:\labi\3sem\oop\test.txt в C:\labi\3sem\oop\lab12\LVKFiles\test.txt
+2024-11-30, 12-10-28 - Перемещение директории: Перемещена директория: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles
+2024-11-30, 12-10-28 - Создание архива: Создан архив: C:\labi\3sem\oop\lab12\LVKInspect\LVKFiles.zip
+2024-11-30, 12-10-28 - Разархивирование: Разархивировано в: C:\labi\3sem\oop\lab12\ExtractedFiles
+2024-11-30, 12-10-28 - Создание файла: Создан файл: C:\labi\3sem\oop\lab12\LVKInspect\lvkdirinfo.txt

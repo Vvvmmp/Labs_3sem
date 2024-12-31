@@ -1,0 +1,6 @@
+﻿  lab10.cpp
+C:\labi\3sem\asd\lab10\lab10\lab10.cpp(134,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\labi\3sem\asd\lab10\lab10\lab10.cpp(135,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\labi\3sem\asd\lab10\lab10\lab10.cpp(168,33): warning C4305: инициализация: усечение из "double" в "float"
+C:\labi\3sem\asd\lab10\lab10\lab10.cpp(201,40): warning C4018: <: несоответствие типов со знаком и без знака
+  lab10.vcxproj -> C:\labi\3sem\asd\lab10\lab10\Debug\lab10.exe

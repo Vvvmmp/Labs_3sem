@@ -1,0 +1,7 @@
+C:\labi\3sem\oop\lab11\lab11\bin\Debug\lab11.exe.config
+C:\labi\3sem\oop\lab11\lab11\bin\Debug\lab11.exe
+C:\labi\3sem\oop\lab11\lab11\bin\Debug\lab11.pdb
+C:\labi\3sem\oop\lab11\lab11\obj\Debug\lab11.csproj.AssemblyReference.cache
+C:\labi\3sem\oop\lab11\lab11\obj\Debug\lab11.csproj.CoreCompileInputs.cache
+C:\labi\3sem\oop\lab11\lab11\obj\Debug\lab11.exe
+C:\labi\3sem\oop\lab11\lab11\obj\Debug\lab11.pdb

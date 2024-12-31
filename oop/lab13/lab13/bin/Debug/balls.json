@@ -1,0 +1,20 @@
+[
+  {
+    "Materials": "плюш",
+    "Name": "Мяч 1",
+    "Description": "описание 1",
+    "Price": 11.11
+  },
+  {
+    "Materials": "кожа",
+    "Name": "Мяч 2",
+    "Description": "описание 2",
+    "Price": 22.22
+  },
+  {
+    "Materials": "синтетика",
+    "Name": "Мяч 3",
+    "Description": "описание 3",
+    "Price": 33.33
+  }
+]

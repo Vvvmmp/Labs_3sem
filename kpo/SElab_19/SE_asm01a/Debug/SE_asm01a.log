@@ -1,0 +1,26 @@
+﻿Сборка начата 11.12.2024 22:41:06.
+Уровень детализации журнала: Normal.     1>Проект "D:\labs\kpo\2sem\SElab19\SE_asm01a\SE_asm01a.vcxproj" в узле 5 (целевые объекты Rebuild).
+     1>_PrepareForClean:
+         Файл "Debug\SE_asm01a.tlog\SE_asm01a.lastbuildstate" удаляется.
+       PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "Debug\SE_asm01a.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\SE_asm01a.tlog\unsuccessfulbuild".
+       _MASM:
+         Assembling SE_asm01a.asm...
+         cmd.exe /C "C:\Users\Kirill\AppData\Local\Temp\tmpd0c69d3a70ee4d4ca781ac1fa3e5a5fd.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\SE_asm01a.obj" /W3 /errorReport:prompt  /TaSE_asm01a.asm
+       Lib:
+         D:\Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX86\x86\Lib.exe /OUT:"D:\labs\kpo\2sem\SElab19\Debug\SE_asm01a.lib" /NOLOGO /MACHINE:X86 Debug\SE_asm01a.obj
+         SE_asm01a.vcxproj -> D:\labs\kpo\2sem\SElab19\Debug\SE_asm01a.lib
+       FinalizeBuildStatus:
+         Файл "Debug\SE_asm01a.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_asm01a.tlog\SE_asm01a.lastbuildstate".
+     1>Сборка проекта "D:\labs\kpo\2sem\SElab19\SE_asm01a\SE_asm01a.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.80

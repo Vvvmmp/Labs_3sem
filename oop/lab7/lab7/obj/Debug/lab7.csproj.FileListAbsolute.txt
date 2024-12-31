@@ -1,0 +1,7 @@
+C:\labi\3sem\oop\lab7\lab7\bin\Debug\lab7.exe.config
+C:\labi\3sem\oop\lab7\lab7\bin\Debug\lab7.exe
+C:\labi\3sem\oop\lab7\lab7\bin\Debug\lab7.pdb
+C:\labi\3sem\oop\lab7\lab7\obj\Debug\lab7.csproj.AssemblyReference.cache
+C:\labi\3sem\oop\lab7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\labi\3sem\oop\lab7\lab7\obj\Debug\lab7.exe
+C:\labi\3sem\oop\lab7\lab7\obj\Debug\lab7.pdb

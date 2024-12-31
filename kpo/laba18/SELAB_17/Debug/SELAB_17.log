@@ -1,0 +1,171 @@
+﻿  Error.cpp
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,20): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,27): error C2238: непредвиденные лексемы перед ";"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,9): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,23): error C3646: grebach: неизвестный спецификатор переопределения
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,30): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(100,34): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(100,39): error C2061: синтаксическая ошибка: идентификатор "Greibach"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(106,25): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(106,36): error C2061: синтаксическая ошибка: идентификатор "Chain"
+  In.cpp
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,20): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,27): error C2238: непредвиденные лексемы перед ";"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,9): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,23): error C3646: grebach: неизвестный спецификатор переопределения
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,30): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(100,34): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(100,39): error C2061: синтаксическая ошибка: идентификатор "Greibach"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(106,25): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(106,36): error C2061: синтаксическая ошибка: идентификатор "Chain"
+C:\labi\3sem\kpo\laba18\SELAB_17\In.cpp(31,36): warning C4018: <: несоответствие типов со знаком и без знака
+C:\labi\3sem\kpo\laba18\SELAB_17\In.cpp(70,12): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "ERROR_THROW_IN"
+  IT.cpp
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,20): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,27): error C2238: непредвиденные лексемы перед ";"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,9): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,23): error C3646: grebach: неизвестный спецификатор переопределения
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,30): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(100,34): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(100,39): error C2061: синтаксическая ошибка: идентификатор "Greibach"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(106,25): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(106,36): error C2061: синтаксическая ошибка: идентификатор "Chain"
+  LexA.cpp
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,20): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,27): error C2238: непредвиденные лексемы перед ";"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,9): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,23): error C3646: grebach: неизвестный спецификатор переопределения
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,30): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(100,34): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(100,39): error C2061: синтаксическая ошибка: идентификатор "Greibach"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(106,25): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(106,36): error C2061: синтаксическая ошибка: идентификатор "Chain"
+C:\labi\3sem\kpo\laba18\SELAB_17\LexA.cpp(242,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\labi\3sem\kpo\laba18\SELAB_17\LexA.cpp(275,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\labi\3sem\kpo\laba18\SELAB_17\LexA.cpp(436,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Log.cpp
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,20): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,27): error C2238: непредвиденные лексемы перед ";"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,9): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,23): error C3646: grebach: неизвестный спецификатор переопределения
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,30): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(100,34): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(100,39): error C2061: синтаксическая ошибка: идентификатор "Greibach"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(106,25): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(106,36): error C2061: синтаксическая ошибка: идентификатор "Chain"
+  LT.cpp
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,20): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,27): error C2238: непредвиденные лексемы перед ";"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,9): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,23): error C3646: grebach: неизвестный спецификатор переопределения
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,30): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(100,34): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(100,39): error C2061: синтаксическая ошибка: идентификатор "Greibach"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(106,25): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(106,36): error C2061: синтаксическая ошибка: идентификатор "Chain"
+  main.cpp
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,20): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,27): error C2238: непредвиденные лексемы перед ";"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,9): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,23): error C3646: grebach: неизвестный спецификатор переопределения
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,30): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(100,34): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(100,39): error C2061: синтаксическая ошибка: идентификатор "Greibach"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(106,25): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(106,36): error C2061: синтаксическая ошибка: идентификатор "Chain"
+C:\labi\3sem\kpo\laba18\SELAB_17\main.cpp(29,34): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\main.cpp(29,39): error C3861: getGreibach: идентификатор не найден
+  MFST.cpp
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,20): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,27): error C2238: непредвиденные лексемы перед ";"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,9): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,23): error C3646: grebach: неизвестный спецификатор переопределения
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,30): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(100,34): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(100,39): error C2061: синтаксическая ошибка: идентификатор "Greibach"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(106,25): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(106,36): error C2061: синтаксическая ошибка: идентификатор "Chain"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(37,20): error C2065: lenta: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(38,36): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(38,41): error C2061: синтаксическая ошибка: идентификатор "Greibach"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(39,9): error C2065: grebach: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(39,19): error C2065: pgreibach: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(41,9): error C2065: lenta: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(42,46): error C2065: lenta: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(42,57): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(42,75): error C3861: T: идентификатор не найден
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(44,17): error C2065: grebach: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(45,17): error C2065: grebach: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(52,17): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(52,35): error C3861: isN: идентификатор не найден
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(53,17): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(53,22): error C2065: Rule: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(53,27): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "rule"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(53,27): error C2065: rule: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(54,30): error C2065: grebach: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(54,56): error C2065: rule: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(55,21): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(55,32): error C2065: Chain: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(55,38): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "chain"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(55,38): error C2065: chain: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(56,39): error C2065: rule: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(56,57): error C2065: lenta: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(56,80): error C2065: chain: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(57,25): error C2065: rule: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(58,63): error C2065: chain: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(68,35): error C2065: lenta: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(83,27): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(83,44): error C2761: "bool MFST::Mfst::push_chain(void)": повторное объявление члена запрещено.
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(83,38): error C2065: Chain: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(83,44): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "chain"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(83,51): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(83,51): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(160,38): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(160,56): error C3861: alphabet_to_char: идентификатор не найден
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(168,50): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(168,85): error C2065: lenta: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(168,68): error C3861: alphabet_to_char: идентификатор не найден
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(178,21): error C2065: grebach: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(188,9): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(188,14): error C2065: Rule: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(188,19): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "rule"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(188,19): error C2065: rule: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(191,13): error C2065: rule: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(191,20): error C2065: grebach: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(192,13): error C2065: rule: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(198,9): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(198,14): error C2065: Rule: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(198,19): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "rule"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(198,19): error C2065: rule: необъявленный идентификатор
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.cpp(199,72): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+  Out.cpp
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,20): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,27): error C2238: непредвиденные лексемы перед ";"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,9): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,23): error C3646: grebach: неизвестный спецификатор переопределения
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,30): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(100,34): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(100,39): error C2061: синтаксическая ошибка: идентификатор "Greibach"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(106,25): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(106,36): error C2061: синтаксическая ошибка: идентификатор "Chain"
+  Parm.cpp
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,20): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(90,27): error C2238: непредвиденные лексемы перед ";"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,9): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,23): error C3646: grebach: неизвестный спецификатор переопределения
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(95,30): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(100,34): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(100,39): error C2061: синтаксическая ошибка: идентификатор "Greibach"
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(106,25): error C2653: GRB: не является именем класса или пространства имен
+C:\labi\3sem\kpo\laba18\SELAB_17\MFST.h(106,36): error C2061: синтаксическая ошибка: идентификатор "Chain"
+  Создание кода...

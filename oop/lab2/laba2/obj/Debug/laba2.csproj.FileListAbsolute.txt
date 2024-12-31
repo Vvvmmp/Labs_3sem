@@ -1,0 +1,7 @@
+C:\labi\3sem\oop\lab2\laba2\bin\Debug\laba2.exe.config
+C:\labi\3sem\oop\lab2\laba2\bin\Debug\laba2.exe
+C:\labi\3sem\oop\lab2\laba2\bin\Debug\laba2.pdb
+C:\labi\3sem\oop\lab2\laba2\obj\Debug\laba2.csproj.AssemblyReference.cache
+C:\labi\3sem\oop\lab2\laba2\obj\Debug\laba2.csproj.CoreCompileInputs.cache
+C:\labi\3sem\oop\lab2\laba2\obj\Debug\laba2.exe
+C:\labi\3sem\oop\lab2\laba2\obj\Debug\laba2.pdb

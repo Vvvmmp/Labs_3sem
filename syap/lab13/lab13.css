@@ -1,0 +1,109 @@
+body {
+  margin: 3%;
+  font-size: 150%;
+  font-family: "Press Start 2P", sans-serif;
+}
+body h1 {
+  text-align: center;
+  color: rgba(0, 0, 0, 0.831);
+  margin: 3%;
+}
+body .selectTask {
+  display: flex;
+  align-items: center;
+  margin: auto;
+  width: 80%;
+  gap: 10%;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+body .selectTask input {
+  width: 50%;
+  height: 6vh;
+  font-family: "Press Start 2P", sans-serif;
+}
+body .selectTask button {
+  font-size: 120%;
+  height: 8vh;
+  color: whitesmoke;
+  width: 28%;
+  background-color: rgba(16, 50, 95, 0.824);
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+body .selectTask button:hover {
+  background-color: rgb(19, 43, 83);
+}
+body .showTask {
+  width: 80%;
+  display: flex;
+  margin: auto;
+  margin-top: 3%;
+  justify-content: space-around;
+  gap: 5%;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+body .showTask button {
+  height: 8vh;
+  font-size: 100%;
+  color: whitesmoke;
+  width: 25%;
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: rgba(16, 50, 95, 0.824);
+  transition: background-color 0.3s ease;
+}
+body .showTask button:hover {
+  background-color: rgb(19, 43, 83);
+}
+body #taskContainer {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  margin: 2%;
+}
+body #taskContainer .task {
+  margin: 1%;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: rgba(86, 86, 86, 0.562);
+}
+body #taskContainer .task input[type=checkbox] {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  margin-right: 10px;
+  accent-color: #2e8b57;
+}
+body #taskContainer .task p {
+  margin: 5px;
+  flex-grow: 1;
+  font-size: 1rem;
+}
+body #taskContainer .task button {
+  color: white;
+  font-size: 90%;
+  border-radius: 5px;
+  padding: 5px 10px;
+  margin-left: 5px;
+  border: none;
+  cursor: pointer;
+}
+body #taskContainer .task button#Set {
+  background-color: rgb(49, 153, 68);
+  transition: background-color 0.3s ease;
+}
+body #taskContainer .task button#Set:hover {
+  background-color: rgb(39, 123, 58);
+}
+body #taskContainer .task button#Remove {
+  background-color: rgb(153, 49, 49);
+  transition: background-color 0.3s ease;
+}
+body #taskContainer .task button#Remove:hover {
+  background-color: rgb(123, 39, 39);
+}

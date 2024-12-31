@@ -1,0 +1,3 @@
+Файл: C:\labi\3sem\oop\lab12\12CS_Файловая_система_потоквые классы.pptx
+Файл: C:\labi\3sem\oop\lab12\12_Потоки_файловая система.pdf
+Папка: C:\labi\3sem\oop\lab12\lab12

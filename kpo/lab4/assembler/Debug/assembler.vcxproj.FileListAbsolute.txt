@@ -1,0 +1,2 @@
+C:\Users\Денис Мамонько\Desktop\lab4\assembler\Debug\assembler.exe
+C:\labi\3sem\kpo\lab4\assembler\Debug\assembler.exe

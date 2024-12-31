@@ -1,0 +1,7 @@
+C:\labi\3sem\oop\lab9\lab9\bin\Debug\lab9.exe.config
+C:\labi\3sem\oop\lab9\lab9\bin\Debug\lab9.exe
+C:\labi\3sem\oop\lab9\lab9\bin\Debug\lab9.pdb
+C:\labi\3sem\oop\lab9\lab9\obj\Debug\lab9.csproj.AssemblyReference.cache
+C:\labi\3sem\oop\lab9\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+C:\labi\3sem\oop\lab9\lab9\obj\Debug\lab9.exe
+C:\labi\3sem\oop\lab9\lab9\obj\Debug\lab9.pdb

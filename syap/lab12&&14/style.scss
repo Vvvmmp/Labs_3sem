@@ -1,0 +1,58 @@
+$background-color: #1C1C1C;
+$text-color: #E0E0E0;
+$table-border-color: #008080;
+$cell-background: #333;
+$cell-focus-background: #005757;
+$button-background: #008080;
+$button-hover-background: #00AFAF;
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    background-color: $background-color; 
+    color: $text-color;                     
+}
+
+table {
+    margin-top: 10%;
+    border-collapse: collapse;
+    margin-bottom: 20px;      
+    td {
+        width: 40px;
+        height: 40px;
+        border: 2px solid $table-border-color; 
+        text-align: center;
+        font-size: 24px;
+        background-color: $cell-background; 
+        color: $text-color; 
+        outline: none;
+
+        &:focus {
+            background-color: $cell-focus-background; 
+        }
+    }
+}
+
+button {
+    margin: 5px;
+    padding: 10px 15px;
+    font-size: 16px;
+    color: $text-color; 
+    background-color: $button-background; 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s; 
+
+    &:hover {
+        background-color: $button-hover-background; 
+        transform: scale(1.05); 
+    }
+
+    &:active {
+        transform: scale(0.95); 
+    }
+}

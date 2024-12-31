@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfBall xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ball>
+    <Name>Мяч 1</Name>
+    <Description>описание 1</Description>
+    <Price>11.11</Price>
+    <Materials>плюш</Materials>
+  </Ball>
+  <Ball>
+    <Name>Мяч 2</Name>
+    <Description>описание 2</Description>
+    <Price>22.22</Price>
+    <Materials>кожа</Materials>
+  </Ball>
+  <Ball>
+    <Name>Мяч 3</Name>
+    <Description>описание 3</Description>
+    <Price>33.33</Price>
+    <Materials>синтетика</Materials>
+  </Ball>
+</ArrayOfBall>

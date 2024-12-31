@@ -1,0 +1,22 @@
+﻿Сборка начата 11.12.2024 23:02:22.
+Уровень детализации журнала: Normal.     1>Проект "D:\labs\kpo\2sem\SElab19\SE_asm01dd\SE_asm01dd.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Обращение к "Debug\SE_asm01dd.tlog\unsuccessfulbuild".
+       ClCompile:
+         D:\Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"D:\labs\kpo\2sem\SElab19\Debug\SE_asm01dd.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt SE_asm01dd.cpp
+         SE_asm01dd.cpp
+       Lib:
+         D:\Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX86\x86\Lib.exe /OUT:"D:\labs\kpo\2sem\SElab19\Debug\SE_asm01dd.lib" /NOLOGO /MACHINE:X86 Debug\SE_asm01dd.obj
+         SE_asm01dd.vcxproj -> D:\labs\kpo\2sem\SElab19\Debug\SE_asm01dd.lib
+       FinalizeBuildStatus:
+         Файл "Debug\SE_asm01dd.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_asm01dd.tlog\SE_asm01dd.lastbuildstate".
+     1>Сборка проекта "D:\labs\kpo\2sem\SElab19\SE_asm01dd\SE_asm01dd.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.63
