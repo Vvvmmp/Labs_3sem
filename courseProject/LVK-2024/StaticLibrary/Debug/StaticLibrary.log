@@ -1,0 +1,3 @@
+﻿  StaticLibrary.cpp
+C:\labi\3sem\courseProject\LVK-2024\StaticLibrary\StaticLibrary.cpp(63,21): warning C4018: <=: несоответствие типов со знаком и без знака
+  StaticLibrary.vcxproj -> C:\labi\3sem\courseProject\LVK-2024\Debug\StaticLibrary.lib

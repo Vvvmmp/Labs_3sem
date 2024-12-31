@@ -1,0 +1,122 @@
+inane function push()[
+print;
+finish;
+]
+
+num function min(num a,num b)
+[
+# num hooo = 10;
+print "hooo 2: ";
+print hooo;
+  # num powe;
+  # num res;
+  when: a > b ~ 
+	istrue[res = b;]
+	isfalse[res = a;]~
+	
+  finish res;
+]
+
+
+num function myfunc(num a)
+[
+  # num limit;
+  limit = 1 + a;
+  # num i = 1;
+  # num res = 5;
+
+  when: i < limit ~
+		loop[
+			res = res+100;
+			i = i+1;
+		]~
+
+		finish res;
+]
+root
+[ 
+# symbol aaaa = "gggg";
+ 
+ # symbol test = "1312";
+ # num testn = 15;
+ # num res = 5;
+	res = res + testn + power(5,10);
+   nl;nl;
+   print res;
+   nl;
+   nl;
+   print "test library function and user function";
+   nl;
+   
+   # num e;
+   e = atoii("777");
+   print "test atoii: ";
+   print e;
+   nl;
+   print e;
+   e = e + 5;
+   print " + 5 = ";
+   print e;
+   nl;
+
+   e = power(2,31);
+   print "test power(2, 31): ";
+   print e;
+   nl;
+   nl;
+
+   e = fibonachi(47);
+   print "test fibonachi(47): ";
+   print e;
+   nl;
+   nl;
+   e = factorial(12);
+print "test factorial(12): ";
+print e;
+nl;
+nl;
+
+   # num ta = 4;
+   # num resa;
+   
+   print "user function: ";
+
+   resa = myfunc(ta);
+   print resa;
+   nl;
+
+   print "library factorial: ";
+   resa = factorial(ta);
+   print resa;
+   nl;
+
+   # num nn = 30;
+   # num tt = 30;
+   push();
+   # num m;
+   m = min(nn, tt);
+   print "min value: ";
+   print m;
+
+   nl;
+   print "test <= and >=";
+   nl;
+
+   # num mqa = 30;
+   # num mqb = 30;
+   
+   print "mqa = ";
+   print mqa;
+   nl;
+
+   print "mqb = ";
+   print mqb;
+   nl;
+
+   print mqa;
+   print " >= ";
+   print mqb;
+
+   print " : ";
+   nl;
+   ]
